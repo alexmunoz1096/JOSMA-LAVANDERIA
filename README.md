@@ -21,7 +21,5 @@ El proyecto se desarrollará utilizando las siguientes tecnologías:
 - **Base de Datos**: MongoDB o MySQL(o cualquier otra base de datos compatible con Node.js)
 - **Control de Versiones**: Git
 - **Plataforma de Alojamiento**: GitHub.
-## Contacto
 
-Si tienes alguna pregunta o sugerencia sobre el proyecto, no dudes en ponerte en contacto con nosotros a través de [correo electrónico](correo@example.com) o [abriendo un issue](https://github.com/tuusuario/josma-lavanderia/issues) en GitHub.
 
